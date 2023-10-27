@@ -119,7 +119,6 @@ class Chef {
 
 }
 
-
 console.log()
 const dan = new Chef('Dan')
 dan.cookDinner('Salad', 'Prime Rib', 'Chocolate Cake')
